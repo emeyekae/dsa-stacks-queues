@@ -1,0 +1,19 @@
+{
+  "name": "dsa-stacks-queues",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  },
+  "dependencies": {
+    "queue": "^7.0.0",
+    "stack": "^0.1.0"
+  },
+  "description": ""
+}
